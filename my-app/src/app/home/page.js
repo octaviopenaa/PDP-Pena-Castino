@@ -1,3 +1,4 @@
+"use client"
 import Button from "@/components/button";
 import Titulo from "@/components/title";
 
